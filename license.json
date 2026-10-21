@@ -2,6 +2,6 @@
   "allowed_hashes": [
     { "hash": "4e8d0d1ea06a9f40c29e13796e1ed397e62148fed4363ab5f59f2cbab5284e52", "lifetime": true },
     { "hash": "e8c829fe3361a89be7799d2862196533159808ef5f6c51968cad54b4a30a9d93", "lifetime": true },
-    { "hash": "53af203d03830b829c999c492f7971e58e9471b2bda2c80099ac4e19ef78xxxx", "expires": "2026-11-14" }
+    { "hash": "782bee16048db8c32bd0141353d8e0eb3bc49852e550945110aa4aab05341536", "expires": "2026-11-21" }
   ]
 }
